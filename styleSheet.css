@@ -1,0 +1,36 @@
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+}
+body{
+           font-family: Arial, sans-serif;
+           text-align: center;
+           background-color:  #1e1e2f;
+           color: #fff;
+           margin-top: 25px;
+}
+.container{
+          margin-top: 100px;
+}
+#time{
+          font-size: 48px;
+          margin-bottom: 20px;
+}
+.buttons{
+          padding: 25px;
+          margin-top: 15px;
+         
+}
+.buttons button{
+          border-radius: 5px;
+          padding: 25px;
+          margin:12px;
+          cursor: pointer;
+}
+#laps{
+          
+          margin-top: 20px;
+          list-style: none;
+          padding:0;
+}
